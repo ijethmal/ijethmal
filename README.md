@@ -16,7 +16,7 @@
 <p>🔎 <a target="_blank" href="https://lkcnhm-personality-quiz.web.app/">LKCNHM 10th Anniversary Personality Quiz Web App</a>
 Built with JavaScript and Vite</p>
 <p>🤖 <a target="_blank" href="https://github.com/ijethmal/beepboop-discord-bot">Basic Discord Bot</a> Built with Python</p>
-<p>📈 <a target="_blank" href="https://github.com/ijethmal/SC3000">AI - Reinforcement Learning Agents</a></p>
+<p>📈 AI - <a target="_blank" href="https://github.com/ijethmal/SC3000">Reinforcement Learning Agents Demonstration</a></p>
 <p>⚙️ Python Automation - <a target="_blank" href="https://github.com/ijethmal/lacework-scripts-python">Lacework API Scripts</a></p>
 <h3>Technologies</h3>
 <b>☁️ Cloud</b>
