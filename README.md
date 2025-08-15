@@ -13,6 +13,8 @@
 </p>
 
 <h3>Projects</h3>
+<p>🌎 <a target="_blank" href="https://french-avec-joelle.web.app/">French Tutoring Services Website</a>
+Built with ReactJS and Vite</p>
 <p>🔎 <a target="_blank" href="https://lkcnhm-personality-quiz.web.app/">LKCNHM 10th Anniversary Personality Quiz Web App</a>
 Built with JavaScript and Vite</p>
 <p>🤖 <a target="_blank" href="https://github.com/ijethmal/beepboop-discord-bot">Basic Discord Bot</a> Built with Python</p>
