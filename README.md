@@ -17,9 +17,9 @@
 Built with ReactJS and Vite</p>
 <p>🔎 <a target="_blank" href="https://lkcnhm-personality-quiz.web.app/">LKCNHM 10th Anniversary Personality Quiz Web App</a>
 Built with JavaScript and Vite</p>
-<p>🤖 <a target="_blank" href="https://github.com/ijethmal/beepboop-discord-bot">Basic Discord Bot</a> Built with Python</p>
-<p>📈 AI - <a target="_blank" href="https://github.com/ijethmal/SC3000">Reinforcement Learning Agents Demonstration</a></p>
-<p>⚙️ Python Automation - <a target="_blank" href="https://github.com/ijethmal/lacework-scripts-python">Lacework API Scripts</a></p>
+<p>🤖 <a target="_blank" href="https://github.com/ijethmal/beepboop-discord-bot">Discord Bot</a> Built with Python</p>
+<p>📈 Artificial Intelligence: <a target="_blank" href="https://github.com/ijethmal/SC3000">Reinforcement Learning Agents Demonstration & Comparison</a></p>
+<p>⚙️ Python Automation & Scripting: <a href="https://github.com/ijethmal/pdf-merger/tree/main">Cross-Platform PDF Merger script</a> and <a target="_blank" href="https://github.com/ijethmal/lacework-scripts-python">Scripts for Fetching Resource Vulnerability Information from Lacework Cloud Monitoring</a></p>
 <h3>Technologies</h3>
 <b>☁️ Cloud</b>
 <p><img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></p>
