@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Year 3 Student in NTU (BComp Computer Science), passionate about Information Security and Penetration Testing.
+  Year 3 Student in NTU (BComp Computer Science), passionate about Information Security.
 </p>
 
 <h3>Projects</h3>
