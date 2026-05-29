@@ -1,6 +1,6 @@
 <hr>
 <h1 align="center">Welcome to Isha's Github!</h1>
-<h3 align="center">Aspiring Ethical Hacker | Certified in Cybersecurity | CS Undergraduate </h3>
+<h3 align="center">Aspiring Cybersecurity Consultant | Certified in Cybersecurity | CS Undergraduate </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/isha-jethmal/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://tryhackme.com/p/ijethmal" target="blank"><img align="center" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="tryhackme"/></a>
